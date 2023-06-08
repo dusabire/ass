@@ -1,0 +1,12 @@
+body{
+	background-color:green; 
+
+form{
+	border-radius: 20px;
+	background-color:orange;
+	margin-left: 200px;
+	margin-top: 180px;
+}
+input{
+	background-color:white; 
+}
